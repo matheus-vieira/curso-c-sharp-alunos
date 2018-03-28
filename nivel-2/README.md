@@ -153,4 +153,4 @@ Variáveis são utilizadas para armazenar valores para o uso posterior
   * Pegamos o valor utilizando apenas o nome da variável
 * Nem todos os tipo de dados podem ser convertidos implicitamente, para isso temos métodos `Parse`
 
-(Nível 3)[nivel-3]
+(Nível 3)[nivel-3/]
