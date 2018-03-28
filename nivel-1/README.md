@@ -244,4 +244,4 @@ Olá Mundo
 Você disse Olá Mundo
 ```
 
-[Nível 2](curso-c-sharp-alunos/nivel-2/)
+[Nível 2](/curso-c-sharp-alunos/nivel-2/)
