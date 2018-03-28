@@ -25,14 +25,14 @@ namespace exercicios
 
 string guitarras = "4";
 
-[ ] int instrumentos = guitarras;
-[ ] int instrumentos = int.Parse(guitarras);
-[ ] int instrumentos = guitarras.ToInt();
-[ ] int instrumentos = (int)guitarras;
+- [ ] int instrumentos = guitarras;
+- [ ] int instrumentos = int.Parse(guitarras);
+- [ ] int instrumentos = guitarras.ToInt();
+- [ ] int instrumentos = (int)guitarras;
 
 ## Qual resposta é a verdadeira
 
-[ ] int armazena todos os valores inteiros, porém não negativos.
-[ ] int armazena todos os valores inteiros, incluindo positivos e negativos.
-[ ] int armazena todos os valores inteiros, incluindo positivos e negativos, menos o zero.
-[ ] int armazena números positivos e negativos, excluindo o zero.
+- [ ] int armazena todos os valores inteiros, porém não negativos.
+- [ ] int armazena todos os valores inteiros, incluindo positivos e negativos.
+- [ ] int armazena todos os valores inteiros, incluindo positivos e negativos, menos o zero.
+- [ ] int armazena números positivos e negativos, excluindo o zero.
