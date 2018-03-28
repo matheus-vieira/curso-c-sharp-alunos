@@ -98,6 +98,8 @@ Existem dois tipos de dados [Referência](https://docs.microsoft.com/pt-br/dotne
 
 Para criar uma aplicação C# utilizamos o seguinte comando:
 
+[Referência new](https://docs.microsoft.com/pt-br/dotnet/core/tools/dotnet-new?tabs=netcore2x)
+
 ```bash
 mkdir AppCSharp
 cd AppCSharp
