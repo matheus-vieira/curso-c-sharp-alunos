@@ -40,4 +40,4 @@ Com isso podemos iniciar o primeiro nível do nosso curso.
 
 Bom proveito!
 
-(Nível 1)[nivel-1/]
+[Nível 1](nivel-1/)
