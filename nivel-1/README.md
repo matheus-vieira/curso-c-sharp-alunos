@@ -235,6 +235,7 @@ Running 'dotnet restore' on /mnt/c/Users/Matheus/Documents/Source/Repos/git/curs
 
 Restore succeeded.
 ```
+
 Executa a aplicação
 
 ```bash
