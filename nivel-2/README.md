@@ -84,7 +84,6 @@ No momento nos interessa apenas os tipos
 
 Para isso devemos utilizar o método `int.Parse`
 
-
 ```csharp
 static void Main(string[] args)
 {
@@ -153,4 +152,8 @@ Variáveis são utilizadas para armazenar valores para o uso posterior
   * Pegamos o valor utilizando apenas o nome da variável
 * Nem todos os tipo de dados podem ser convertidos implicitamente, para isso temos métodos `Parse`
 
-[Nível 3](nivel-3)
+[Página Inicial](/curso-c-sharp-alunos/)
+
+[Nível 1](/curso-c-sharp-alunos/nivel-2/)
+
+[Nível 3](/curso-c-sharp-alunos/nivel-3/)
