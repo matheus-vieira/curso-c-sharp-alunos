@@ -152,8 +152,4 @@ Variáveis são utilizadas para armazenar valores para o uso posterior
   * Pegamos o valor utilizando apenas o nome da variável
 * Nem todos os tipo de dados podem ser convertidos implicitamente, para isso temos métodos `Parse`
 
-[Página Inicial](/curso-c-sharp-alunos/)
-
-[Nível 1](/curso-c-sharp-alunos/nivel-2/)
-
-[Nível 3](/curso-c-sharp-alunos/nivel-3/)
+{% include niveis.md %}

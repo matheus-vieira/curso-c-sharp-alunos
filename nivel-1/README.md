@@ -245,8 +245,4 @@ Olá Mundo
 Você disse Olá Mundo
 ```
 
-[Página Inicial](/curso-c-sharp-alunos/)
-
-[Nível 2](/curso-c-sharp-alunos/nivel-2/)
-
-[Nível 3](/curso-c-sharp-alunos/nivel-3/)
+{% include niveis.md %}

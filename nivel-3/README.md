@@ -284,8 +284,4 @@ Utilizando condições e expressões conseguimos mudar o fluxo de execução
 > * `!` inverte o valor da expressão
 >   * `!false`
 
-[Página Inicial](/curso-c-sharp-alunos/)
-
-[Nível 1](/curso-c-sharp-alunos/nivel-1/)
-
-[Nível 2](/curso-c-sharp-alunos/nivel-2/)
+{% include niveis.md %}
