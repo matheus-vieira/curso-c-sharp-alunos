@@ -39,5 +39,3 @@ Para executar aplicativos utilizando este framework inicialmente devemos baixar 
 Com isso podemos iniciar o primeiro nível do nosso curso.
 
 Bom proveito!
-
-{% include niveis.md %}

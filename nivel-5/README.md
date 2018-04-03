@@ -309,5 +309,3 @@ Utilizando laços de repetição
 >   * `1 != 2`
 > * `!` inverte o valor da expressão
 >   * `!false`
-
-{% include niveis.md %}

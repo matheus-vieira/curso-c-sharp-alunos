@@ -244,5 +244,3 @@ Digite uma mensagem
 Olá Mundo
 Você disse Olá Mundo
 ```
-
-{% include niveis.md %}

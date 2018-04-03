@@ -283,5 +283,3 @@ Utilizando condições e expressões conseguimos mudar o fluxo de execução
 >   * `1 != 2`
 > * `!` inverte o valor da expressão
 >   * `!false`
-
-{% include niveis.md %}

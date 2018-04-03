@@ -151,5 +151,3 @@ Variáveis são utilizadas para armazenar valores para o uso posterior
 * Chamamos de GET quando lemos o valor de uma variável
   * Pegamos o valor utilizando apenas o nome da variável
 * Nem todos os tipo de dados podem ser convertidos implicitamente, para isso temos métodos `Parse`
-
-{% include niveis.md %}

@@ -222,5 +222,3 @@ Como criar projetos e soluções via [CLI](https://docs.microsoft.com/pt-br/dotn
 >   * `1 != 2`
 > * `!` inverte o valor da expressão
 >   * `!false`
-
-{% include niveis.md %}
