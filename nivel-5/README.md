@@ -1,3 +1,5 @@
+{% include niveis.md %}
+
 # Laços de Repetição
 
 Quando precisamos repetir a execução de um bloco de código utilizamos laços de repetição
@@ -309,3 +311,5 @@ Utilizando laços de repetição
 >   * `1 != 2`
 > * `!` inverte o valor da expressão
 >   * `!false`
+
+{% include niveis.md %}

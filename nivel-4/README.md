@@ -1,3 +1,5 @@
+{% include niveis.md %}
+
 # Solution
 
 Como criar projetos e soluções com a interface de linha de comando [CLI](https://docs.microsoft.com/pt-br/dotnet/core/tools/?tabs=netcore2x)
@@ -222,3 +224,5 @@ Como criar projetos e soluções via [CLI](https://docs.microsoft.com/pt-br/dotn
 >   * `1 != 2`
 > * `!` inverte o valor da expressão
 >   * `!false`
+
+{% include niveis.md %}

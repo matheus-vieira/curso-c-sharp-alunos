@@ -1,3 +1,5 @@
+{% include niveis.md %}
+
 # Curso de C# do framework .NET
 
 Curso introdutório à linguagem C#, uma das linguagens de programação presentes no framework .NET
@@ -39,3 +41,5 @@ Para executar aplicativos utilizando este framework inicialmente devemos baixar 
 Com isso podemos iniciar o primeiro nível do nosso curso.
 
 Bom proveito!
+
+{% include niveis.md %}
