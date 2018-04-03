@@ -79,11 +79,13 @@ Serve para agrupar projetos de mesmo objetivo
 
 Ex.:
 
-+--E-commerce    | sln
-  +-- Web        | mvc
-  +-- Serviço    | console
-  +-- Models     | classlib
-  +-- DAL        | classlib
+```bash
+├── E-commerce          [sln]
+│   ├── Web             [mvc]
+│   ├── Serviço         [console]
+│   ├── Models          [classlib]
+│   └── DataAccessLayer [classlib]
+```
 
 
 Para criar uma solution:
