@@ -80,11 +80,90 @@ Serve para agrupar projetos de mesmo objetivo
 Ex.:
 
 ```bash
-├── E-commerce          [sln]
-│   ├── Web             [mvc]
-│   ├── Serviço         [console]
-│   ├── Models          [classlib]
-│   └── DataAccessLayer [classlib]
+E-Commerce/
+├── DAL
+│   ├── Class1.cs
+│   ├── DAL.csproj
+├── Models
+│   ├── Class1.cs
+│   ├── Models.csproj
+├── Servico
+│   ├── Program.cs
+│   └── Servico.csproj
+└── Web
+    ├── appsettings.Development.json
+    ├── appsettings.json
+    ├── bundleconfig.json
+    ├── Controllers
+    │   └── HomeController.cs
+    ├── Models
+    │   └── ErrorViewModel.cs
+    ├── Program.cs
+    ├── Startup.cs
+    ├── Views
+    │   ├── Home
+    │   │   ├── About.cshtml
+    │   │   ├── Contact.cshtml
+    │   │   └── Index.cshtml
+    │   ├── Shared
+    │   │   ├── Error.cshtml
+    │   │   ├── _Layout.cshtml
+    │   │   └── _ValidationScriptsPartial.cshtml
+    │   ├── _ViewImports.cshtml
+    │   └── _ViewStart.cshtml
+    ├── Web.csproj
+    └── wwwroot
+        ├── css
+        │   ├── site.css
+        │   └── site.min.css
+        ├── favicon.ico
+        ├── images
+        │   ├── banner1.svg
+        │   ├── banner2.svg
+        │   ├── banner3.svg
+        │   └── banner4.svg
+        ├── js
+        │   ├── site.js
+        │   └── site.min.js
+        └── lib
+            ├── bootstrap
+            │   ├── dist
+            │   │   ├── css
+            │   │   │   ├── bootstrap.css
+            │   │   │   ├── bootstrap.css.map
+            │   │   │   ├── bootstrap.min.css
+            │   │   │   ├── bootstrap.min.css.map
+            │   │   │   ├── bootstrap-theme.css
+            │   │   │   ├── bootstrap-theme.css.map
+            │   │   │   ├── bootstrap-theme.min.css
+            │   │   │   └── bootstrap-theme.min.css.map
+            │   │   ├── fonts
+            │   │   │   ├── glyphicons-halflings-regular.eot
+            │   │   │   ├── glyphicons-halflings-regular.svg
+            │   │   │   ├── glyphicons-halflings-regular.ttf
+            │   │   │   ├── glyphicons-halflings-regular.woff
+            │   │   │   └── glyphicons-halflings-regular.woff2
+            │   │   └── js
+            │   │       ├── bootstrap.js
+            │   │       ├── bootstrap.min.js
+            │   │       └── npm.js
+            │   └── LICENSE
+            ├── jquery
+            │   ├── dist
+            │   │   ├── jquery.js
+            │   │   ├── jquery.min.js
+            │   │   └── jquery.min.map
+            │   └── LICENSE.txt
+            ├── jquery-validation
+            │   ├── dist
+            │   │   ├── additional-methods.js
+            │   │   ├── additional-methods.min.js
+            │   │   ├── jquery.validate.js
+            │   │   └── jquery.validate.min.js
+            │   └── LICENSE.md
+            └── jquery-validation-unobtrusive
+                ├── jquery.validate.unobtrusive.js
+                └── jquery.validate.unobtrusive.min.js
 ```
 
 
