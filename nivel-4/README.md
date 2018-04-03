@@ -79,15 +79,11 @@ Serve para agrupar projetos de mesmo objetivo
 
 Ex.:
 
-E-commerce      | sln
-  |
-  -- Web        | mvc
-  |
-  -- Serviço    | console
-  |
-  -- Models     | classlib
-  |
-  -- DAL        | classlib
++--E-commerce    | sln
+  +-- Web        | mvc
+  +-- Serviço    | console
+  +-- Models     | classlib
+  +-- DAL        | classlib
 
 
 Para criar uma solution:
