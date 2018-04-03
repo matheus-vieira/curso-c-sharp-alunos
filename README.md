@@ -40,8 +40,4 @@ Com isso podemos iniciar o primeiro nível do nosso curso.
 
 Bom proveito!
 
-[Nível 1](/curso-c-sharp-alunos/nivel-1/)
-
-[Nível 2](/curso-c-sharp-alunos/nivel-2/)
-
-[Nível 3](/curso-c-sharp-alunos/nivel-3/)
+{% include niveis.md %}
