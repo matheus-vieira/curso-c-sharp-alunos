@@ -28,7 +28,7 @@ namespace anuncio
     {
         static void Main(string[] args)
         {
-            var n = 0;
+            int n = 0;
             while (n < 10)
             {
                 Console.WriteLine(++n + ": Hello World! ");
@@ -59,8 +59,8 @@ Saída
 > utiliza a variável e depois incrementa em 1
 >
 > ```csharp
-> int i = 0;
-> while(i < 2)
+> int n = 0;
+> while(n < 2)
 > {
 >     Console.WriteLine(n++ + ": Hello World");
 > }
@@ -76,8 +76,8 @@ Saída
 > incrementa a variável em 1 e utiliza o valor posteriormente
 >
 > ```csharp
-> int i = 0;
-> while(i < 2)
+> int n = 0;
+> while(n < 2)
 > {
 >     Console.WriteLine(++n + ": Hello World");
 > }
@@ -95,8 +95,8 @@ Saída
 > utiliza a variável e depois decrementa em 1
 >
 > ```csharp
-> int i = 2;
-> while(i > 0)
+> int n = 2;
+> while(n > 0)
 > {
 >     Console.WriteLine(n-- + ": Hello World");
 > }
@@ -112,8 +112,8 @@ Saída
 > decrementa a variável em 1 e utiliza o valor posteriormente
 >
 > ```csharp
-> int i = 2;
-> while(i > 0)
+> int n = 2;
+> while(n > 0)
 > {
 >     Console.WriteLine(--n + ": Hello World");
 > }

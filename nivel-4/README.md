@@ -205,7 +205,13 @@ s/nivel-4/source/botecoRockBar/Anuncio/Anuncio.csproj.
 Restore succeeded.
 ```
 
+## Adicionar o projeto na solução
 
+
+```bash
+cd ..
+dotnet sln BotecoRockBar.sln add Anuncio/Anuncio.csproj
+```
 
 ## Recapitulando
 

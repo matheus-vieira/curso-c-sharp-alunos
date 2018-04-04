@@ -1,3 +1,5 @@
+{% include niveis.md %}
+
 # Introdução
 
 Introdução à linguagem de programação C#
@@ -244,3 +246,5 @@ Digite uma mensagem
 Olá Mundo
 Você disse Olá Mundo
 ```
+
+{% include niveis.md %}
