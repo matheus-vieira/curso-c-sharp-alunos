@@ -1,0 +1,7 @@
+{% include niveis.md %}
+
+[Nível 6 - Modificadores de acesso]({{ '/nivel-6/modificadores-de-acesso' | relative_url }}) |
+[Nível 6 - Herança]({{ '/nivel-6/heranca' | relative_url }}) |
+[Nível 6 - Propriedades]({{ '/nivel-6/propriedades' | relative_url }}) |
+[Nível 6 - Métodos]({{ '/nivel-6/metodos' | relative_url }}) |
+[Nível 6 - Sobrecarga de métodos]({{ '/nivel-6/sobrecarga-de-metodos' | relative_url }})
