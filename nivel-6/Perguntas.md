@@ -4,6 +4,7 @@ Alguns exercícios
 
 - [ ] Mudar a utilização de parâmetros
 > Adicionar -m --membro "nome do membro"
+> 
 > Adicionar -i --instrumento "nome do instrumento
 - [ ] Mostre uma ajuda detalhando a utilização dos comandos
 > Baseie-se no comando `dotnet -h`
