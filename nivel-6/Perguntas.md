@@ -7,7 +7,7 @@ Alguns exercícios
 > "Agora no palco teremos <nome da banda>"
 > 
 > "Composta por: "\
-> "<nome do membro> no <instrumento>"\
+> "&lt;nome do membro&gt; no &lt;instrumento&gt;"\
 > "mostre um por linha"
 > 
 > "Aproveitem o show!"
