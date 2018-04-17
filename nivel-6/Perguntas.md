@@ -6,8 +6,10 @@ Alguns exercícios
 - [ ] Implementar o anúncio de uma banda
 > "Agora no palco teremos <nome da banda>"
 > 
-> "Composta por: "\
-> "&lt;nome do membro&gt; no &lt;instrumento&gt;"\
+> "Composta por: "
+> 
+> "&lt;nome do membro&gt; no &lt;instrumento&gt;"
+>
 > "mostre um por linha"
 > 
 > "Aproveitem o show!"
