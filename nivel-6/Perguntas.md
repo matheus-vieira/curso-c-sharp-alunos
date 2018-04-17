@@ -8,7 +8,7 @@ Alguns exercícios
 > 
 > "Composta por: "\
 > "<nome do membro> no <instrumento>"\
-> "mostre um por linha"\
+> "mostre um por linha"
 > 
 > "Aproveitem o show!"
 - [ ] Permitir a inserção de mais bandas
