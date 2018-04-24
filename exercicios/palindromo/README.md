@@ -21,7 +21,7 @@ A string "nome" não é um palíndromo
 ```
 
 Plus
-Faça um algorítmo recursivo para verificar se é um palíndromo, ignorando espaços, acentos e letras maiúsculas e minúsculas
+Faça um algorítmo recursivo para verificar se é um palíndromo, ignorando espaços, acentos e letras maiúsculas e minúsculas. Utilize expressões regulares para remover tudo que não for caracter.
 
 Se a string tiver um tamanho igual a 0 ou 1
 Verifique se o primeiro caracter é diferente do último caracter
@@ -31,5 +31,5 @@ Execute novamente a função com uma nova string sem o primeiro e o último cara
 dotnet run
 Verifique se é um palíndromo
 Socorram me subi no ônibus em marrocos
-A string "Socorram me subi no ônibus em marrocos" é um palíndromo
+A string "Socorram-me subi no ônibus em marrocos" é um palíndromo
 ```
