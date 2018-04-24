@@ -23,6 +23,10 @@ A string "nome" não é um palíndromo
 Plus
 Faça um algorítmo recursivo para verificar se é um palíndromo, ignorando espaços, acentos e letras maiúsculas e minúsculas
 
+Se a string tiver um tamanho igual a 0 ou 1
+Verifique se o primeiro caracter é diferente do último caracter
+Execute novamente a função com uma nova string sem o primeiro e o último caracter.
+
 ```bash
 dotnet run
 Verifique se é um palíndromo
