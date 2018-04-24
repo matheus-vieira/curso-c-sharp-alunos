@@ -9,4 +9,4 @@
 7. [Salvar Dados]({{ '/exercicios/salvarDados' | relative_url }})
 8. [Média alunos]({{ '/exercicios/mediaAlunos' | relative_url }})
 9. [Funcionários]({{ '/exercicios/funcionarios' | relative_url }})
-9. [Interfaces]({{ '/exercicios/interfaces' | relative_url }})
+10. [Interfaces]({{ '/exercicios/interfaces' | relative_url }})
